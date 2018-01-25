@@ -1,0 +1,32 @@
+body {
+    background-color: #95a5a6;
+}
+/*Login page start*/
+.login {
+    margin-top: 25px;
+    margin: auto;
+    width: 360px;
+    padding-top: 30px;
+}
+
+.login input {
+    margin-bottom: 20px;
+}
+
+/*Log in page end*/
+
+/*users page start*/
+
+/*users page start*/
+
+/*dashboard start*/
+div .box {
+    width: 350px;
+    height: 150px;
+    padding-top: 8px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*dashboard end*/
