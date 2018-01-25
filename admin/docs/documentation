@@ -1,0 +1,3 @@
+                    ====================	Documintation for site admin erea  ================
+ => ($noNabar) is  a variable to test if existed navigation bar will not be included in the page.
+ => ($pageTitle) is a varaible to view title of every page diynamically.
