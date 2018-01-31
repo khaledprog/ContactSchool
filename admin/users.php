@@ -22,7 +22,7 @@
                             <thead>
                                 <tr class="w3-blue">
                                     <th>#ID</th>
-                                    <td>User-Image</td>
+                                    <th>User-Image</th>
                                     <th>User Name</th>
                                     <th>Full Name</th>
                                     <th>E-mail</th>
@@ -60,7 +60,7 @@
                             <thead>
                                 <tr class="w3-blue">
                                     <th>#ID</th>
-                                    <td>User-Image</td>
+                                    <th>User-Image</th>
                                     <th>User Name</th>
                                     <th>Full Name</th>
                                     <th>E-mail</th>
@@ -96,7 +96,7 @@
                             <thead>
                                 <tr class="w3-blue">
                                     <th>#ID</th>
-                                    <td>User-Image</td>
+                                    <th>User-Image</th>
                                     <th>User Name</th>
                                     <th>Full Name</th>
                                     <th>E-mail</th>
@@ -132,7 +132,7 @@
                             <thead>
                                 <tr class="w3-blue">
                                     <th>#ID</th>
-                                    <td>User-Image</td>
+                                    <th>User-Image</th>
                                     <th>User Name</th>
                                     <th>Full Name</th>
                                     <th>E-mail</th>
